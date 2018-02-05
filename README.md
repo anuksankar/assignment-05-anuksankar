@@ -27,8 +27,7 @@ docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
 jupyter notebook --no-browser --port 8888 --ip=0.0.0.0 --allow-root 
 ```
 
-- `cd w205`
-- clone assignment repo
+
 
 #### Run queries in the notebook 
 
