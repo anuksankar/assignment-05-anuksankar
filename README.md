@@ -6,7 +6,7 @@
 - You're a data scientist at Ford GoBike (https://www.fordgobike.com/), the company running Bay Area Bikeshare. You are trying to increase ridership, and you want to offer deals through the mobile app to do so. What deals do you offer though? Currently, your company has three options: a flat price for a single one-way trip, a day pass that allows unlimited 30-minute rides for 24 hours and an annual membership. 
 
 - Through this project, you will answer these questions: 
-  * What are the 10 most popular trips that you would call "commuter trips"?
+  * What are the 5 most popular trips that you would call "commuter trips"?
   * What are your recommendations for offers (justify based on your findings)?
 
 
