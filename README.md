@@ -27,5 +27,5 @@ Look up and use some basic redis functions from python:
 
 ## More Bonus!
 
-Reproduce the `Extras` section from the wk5 sync-slides... "Using redis to maintain state"
+Reproduce the `Extras` section from the wk5 sync-slides... "Redis to track state"
 
