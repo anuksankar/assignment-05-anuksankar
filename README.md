@@ -6,18 +6,17 @@ container.  You'll use a python redis client library to connect to the redis
 server.
 
 
-## Follow the steps we did in class to get redis and the mids base container talking.
+## The Basics
 
+Follow the steps we did in class to get redis and the mids base container talking.
 
-## What you turn in:
+### What you turn in:
 - In your `/assignment-05-<user-name>` repo:
 	* your `docker-compose.yml` 
 	* once you've run the example on your terminal
 	  * Run `history > <user-name>-history.txt` (ok for this to be messy)
 	  * Save the relevant portion of your history as `<user-name>-annotations.md`
 	  * Annotate the file with explanations of what you were doing at each point (See `htmartin-annotations.md`)
-
----
 
 ## Bonus
 
